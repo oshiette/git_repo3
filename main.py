@@ -1,5 +1,5 @@
 def my_superfunction():
-    print("Много принтов")
+    print("Привет Колледж!")
 def main ():
     print ("Первый принт")
     print("Второй принт")
