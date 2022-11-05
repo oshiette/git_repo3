@@ -1,3 +1,4 @@
+# функция создана на урок.
 def my_superfunction():
     print("Привет Колледж!")
 def main ():
