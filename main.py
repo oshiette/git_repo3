@@ -8,3 +8,6 @@ def main ():
     my_superfunction()
 if __name__ == '__main__':
     main()
+
+
+print(1)
